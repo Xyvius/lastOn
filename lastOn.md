@@ -1,7 +1,7 @@
 # lastOn
 ### Version: 1.1.0
 ### By: Xyvius
-### Updated: 1.12.14
+### Updated: 1.28.14
 ### lastOn is a simple event script which displays the last players (the number to display is configurable) to logon.
 #### See REM statements which start with *** for customization...
 
