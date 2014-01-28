@@ -6,7 +6,7 @@ lastOn is an event script for the SimpleServer (a Minecraft Server tunnel) Event
 
 #### LastOn, by Xyvius
 
-This event provides a quick output of the last few (# is configurable, default is 4) players on. As of V2.0 it also tracks the Most players that have been on at once, broadcasting whenever a new record is set.
+This event provides a quick output of the last few (# is configurable, default is 4) players on. As of v1.0.0 it also tracks the most players that have been on at once, broadcasting whenever a new record is set.
 
 The event should be called from the onPlayerConnect event. See the example below. (I preceed it with a sleep in order to delay the initial output till after the other "On Connect" items (i.e. MOTD, etc.)
 
