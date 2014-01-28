@@ -1,14 +1,16 @@
-# Name: lastOn
-# Version: 2.0
-# By: Xyvius
-# Updated: 1.12.14
-# lastOn is a simple event script which displays the last players (the number to display is configurable) to logon.
-# See REM statements for customization...
+# lastOn
+### Version: 2.0
+### By: Xyvius
+### Updated: 1.12.14
+### lastOn is a simple event script which displays the last players (the number to display is configurable) to logon.
+#### See REM statements for customization...
 
+```xml
 <event name="lastOn">
 rem Init Vars
 	set '#update '#rest to #POP Aexplode
-rem Change number below to number of players you would like to display! (Don't forget to add variables at bottom to match!)
+rem Change number below to number of players you would like to display! 
+rem (Don't forget to add variables at bottom to match!)
 	set '#numDisp 4
 	set '#count #numDisp
 	set '#msg " "
@@ -70,3 +72,4 @@ rem Update List?
 rem copy the above line changing number to next in sequence to add more positions.
 	
 <event name="lastOn_X" value="0"/>
+```
