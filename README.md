@@ -1,7 +1,7 @@
 lastOn
 ======
 
-lastOn is an event script for SimpleServer (a Minecraft Server tunnel) Events System.
+lastOn is an event script for the SimpleServer (a Minecraft Server tunnel) Events System.
 
 
 #### LastOn, by Xyvius
