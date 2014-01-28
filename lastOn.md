@@ -1,5 +1,5 @@
 # lastOn
-### Version: 2.0
+### Version: 1.0.0
 ### By: Xyvius
 ### Updated: 1.12.14
 ### lastOn is a simple event script which displays the last players (the number to display is configurable) to logon.
@@ -18,7 +18,7 @@ rem (Don't forget to add variables at bottom to match!)
 	set '#numOn #players Asize
 
 rem Disp Header
-	say #PLAYER "§6-=== Last" #numDisp .. "Players to LogOn / ReSpawn ===- §1(lastOn v2.0 By:Xyvius)§r" ..
+	say #PLAYER "§6-=== Last" #numDisp .. "Players to LogOn / ReSpawn ===- §1(lastOn v1.0.0 By:Xyvius)§r" ..
 		
 rem Disp last players on
 	while #count 0 gt
